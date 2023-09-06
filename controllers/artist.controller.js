@@ -1,0 +1,1 @@
+to copy all the controller from movie controller 
